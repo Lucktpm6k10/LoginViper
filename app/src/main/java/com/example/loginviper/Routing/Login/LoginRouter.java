@@ -14,6 +14,7 @@ public class LoginRouter implements LoginContractsRouting {
 
     public LoginRouter(LoginActivity mActivity) {
         this.mActivity = mActivity;
+
     }
 
     @Override
